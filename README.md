@@ -38,6 +38,4 @@ Sophomore **Computer Engineering** student at Villanova University with a minor 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" />
-
 </div>
