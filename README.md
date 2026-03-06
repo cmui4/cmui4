@@ -1,21 +1,12 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Carter%20Mui&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%40%20Villanova%20University&descColor=93c5fd&descAlignY=58&descSize=18" />
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logoColor=white)](https://linkedin.com/in/carter-mui)
-[![Email](https://img.shields.io/badge/Email-0066FF?style=for-the-badge&logoColor=white)](mailto:carter@cemui.com)
-
-</div>
-
 ---
 
 ### Hey, I'm Carter 👋
 
 Sophomore **Computer Engineering** student at Villanova University with a minor in Computer Science. Currently looking for **Summer 2026 SWE internships**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logoColor=white)](https://linkedin.com/in/carter-mui)
+[![Email](https://img.shields.io/badge/Email-0066FF?style=for-the-badge&logoColor=white)](mailto:carter@cemui.com)
+
 
 ---
 
